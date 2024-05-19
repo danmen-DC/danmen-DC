@@ -15,10 +15,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/danmen-DC/Sentinal-SIEM">Sentinal Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/danmen-DC/Azure-Honeypot/tree/main">HoneyPot Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | |
+| Incident Response Planning and Execution      | |
+| Case Management with Elastic                  | |
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/danmen-DC/Sentinal-SIEM">Sentinal Lab</a>|
 
 ## Tools
 
@@ -56,5 +56,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Sentinal SIEM
 - Active Directorty Lab
-- SOC Automation Project
 - Honeypot on Azure

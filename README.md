@@ -42,6 +42,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-Azure-0089D6?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Cloud-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ## Certifications

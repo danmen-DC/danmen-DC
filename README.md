@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/danmen-DC/Sentinal-SIEM">Sentinal Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/danmen-DC/Azure-Honeypot/tree/main">HoneyPot Lab</a>|
-| Active Directory Management/Administration         | | <a href="https://github.com/danmen-DC/Active-Directory-Lab">Active-Directory-Lab</a>|
+| Active Directory Management/Administration         | | <a href="https://github.com/danmen-DC/Active-Directory-Lab">Active Directory Lab</a>|
 | Incident Response Planning and Execution      | |
 | Case Management with Elastic                  | |
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/danmen-DC/Sentinal-SIEM">Sentinal Lab</a>|
